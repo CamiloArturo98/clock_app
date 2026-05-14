@@ -144,7 +144,7 @@ Instead of using integers directly:
 ## 👨‍💻 Author
 
 **Camilo Bolaños Arturo**
-Software Engineering Student — Data Structures Project (2026)
+Software Engineering — Data Structures challenge (2026)
 
 ---
 
